@@ -15,7 +15,7 @@
     "express": "^4.14.0",
     "moment": "^2.15.1",
     "raincatcher-modrain": "0.0.1-pre.1",
-    "wfm-tutorial-module": "0.0.2-pre.1"
+    "raincatcher-tutorial-module": "0.0.2-pre.1"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
